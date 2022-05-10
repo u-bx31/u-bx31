@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OussamaLabchari
 - 👀 I’m interested in Front-end dev and also back-end
-- 🌱 I’m currently learning New Tec like ReactJs , Php,...
+- 🌱 I’m currently learning New Tec like ReactJs , PHP
 - 📫 How to reach me My Gmail : Oussama.bx31@gmail.com 
 
 <!---
