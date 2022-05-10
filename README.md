@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OussamaLabchari
 - 👀 I’m interested in Front-end dev and also back-end
 - 🌱 I’m currently learning New Tec like ReactJs , Php,...
-- 📫 How to reach me My GIMAIL:Oussama.bx31@gmail.com 
+- 📫 How to reach me My GMAIL:Oussama.bx31@gmail.com 
 
 <!---
 OussamaLabchari/OussamaLabchari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
