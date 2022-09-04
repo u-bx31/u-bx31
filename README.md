@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamalabchari&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamalabchari" alt="oussamalabchari" /></a> </p>
-
 - 🌱 I’m currently learning **React js ,Node js , Python**
 
 - 📫 How to reach me **Oussama.bx31@gmail.com**
