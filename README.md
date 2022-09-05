@@ -1,4 +1,4 @@
-[![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)]
+![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Labchari Oussama</h1>
 <h3 align="center">Junior Front-end dev and also back-end 🎯road to full-stack dev 👨‍💻</h3>
