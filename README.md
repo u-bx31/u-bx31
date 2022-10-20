@@ -23,8 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamalabchari&show_icons=true&locale=en" alt="oussamalabchari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamalabchari&" alt="oussamalabchari" /></p>
-
 
 <!---
 OussamaLabchari/OussamaLabchari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
