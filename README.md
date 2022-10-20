@@ -1,13 +1,13 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Labchari Oussama</h1>
-<h3 align="center">Junior Front-end dev and also back-end 🎯road to full-stack dev 👨‍💻</h3>
+<h3 align="center">Front-end and back-end developer 🎯road to full-stack developer 👨‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamalabchari&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
-- 🌱 I’m currently learning **React js ,Node js , Python**
+- 🌱 I’m currently learning **React js , Node js ** to start as web Developer
 
 - 📫 How to reach me **Oussama.bx31@gmail.com**
 
