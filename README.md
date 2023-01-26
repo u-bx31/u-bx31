@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-bx31&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
-- 🌱 I’m currently learning **React js , Node js ** to start as web Developer
+- 🌱 I’m currently learning **React js , Node js and Angular** to start as web Developer
 
 - 📫 How to reach me **Oussama.bx31@gmail.com**
 
