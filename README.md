@@ -22,7 +22,7 @@
 
 ### 🧰 Languages and Tools
           
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,androidstudio,bash,bootstrap,cs,mysql,dotnet,py,sass,ts,netlify&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,androidstudio,bash,bootstrap,cs,mysql,dotnet,py,sass,ts,netlify,github,vscode,git,figma&perline=7)](https://skillicons.dev)
 
 <br/>
 <hr/>
