@@ -5,7 +5,7 @@
   🎯full-stack developer 👨‍💻
 </h3>
 
-<img align="right" alt="Coding" width="300" style="border-raduis:50px" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
+<img align="right" alt="Coding" width="400" style="border-raduis:50" src="https://i.pinimg.com/originals/b9/49/c8/b949c86a570df07a7440abe39405834c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-bx31&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
