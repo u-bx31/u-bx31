@@ -5,7 +5,7 @@
   🎯full-stack developer 👨‍💻
 </h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://miro.medium.com/max/1400/1*9m-WDdL_ji01bGbjEnutEw.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1033404741356621885/1069654129120641034/Killer-Ghost_web_developer_illustration_dark_theme_a26ca77d-c1da-4e9d-b6e8-54592217b7ef.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-bx31&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
