@@ -1,4 +1,6 @@
-![MasterHead](https://drive.google.com/file/d/1ybEdAYZGwobMQQwVV0lfu9RCuEDl7Hm-/view?usp=share_link)
+<p align="center">
+  <img width="auto" height="auto" src="https://drive.google.com/file/d/1ybEdAYZGwobMQQwVV0lfu9RCuEDl7Hm-/view?usp=share_link">
+</p>
 
 <h1 align="center">Hi 👋, I'm Labchari Oussama</h1>
 <h3 align="center">Front-end developer and i'm still learning more about back-end <br/>
