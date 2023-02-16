@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/u-bx31/u-bx31/main/github-header-image.png)
+![MasterHead](https://raw.githubusercontent.com/u-bx31/u-bx31/main/template.png)
 
 <h1 align="center">Hi 👋, I'm Labchari Oussama</h1>
 <h3 align="center">Front-end developer and i'm still learning more about back-end <br/>
