@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=u-bx31&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
-- 🌱 I’m currently learning ** more about NextJs 13 , Laravel ** 
 - 📫 How to reach me **Oussama.bx31@gmail.com**
 <hr/>
 
