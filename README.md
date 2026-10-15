@@ -1,37 +1,93 @@
 ![MasterHead](https://raw.githubusercontent.com/u-bx31/u-bx31/main/template.png)
 
-<h1 align="center">Hi 👋, I'm Labchari Oussama</h1>
-<h3 align="center">
-  Junior full-stack web developer 👨‍💻
-</h3>
+# 👋 Yooo, I'm Oussama Labchari
 
-<img align="right" alt="Coding" width="400" style="border-raduis:50" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+### `Developer` • `Problem Solver` • `Lifelong Learner`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=u-bx31&label=Profile%20views&color=0e75b6&style=flat" alt="oussamalabchari" /> </p>
 
-- 📫 How to reach me **Oussama.bx31@gmail.com**
-<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oussama-labchari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-labchari" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=F5C447&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+UBX31+%F0%9F%91%8B;Software+Engineer+Student.;+Frontend-focused.+Full-Stack+Developer;Designing+interfaces.+Building+experiences.;Turning+ideas+into+real+products" alt="Typing SVG" />
+</p>
+<p align="center">
+  <a href="https://u-bx31.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-F5C447?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/oussama-labchari">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-<hr/>
+---
 
-### 🧰 Languages and Tools
-          
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,angular,androidstudio,bash,bootstrap,cs,mysql,dotnet,py,sass,ts,laravel,postgres,nextjs,netlify,github,vscode,git,figma&perline=7)](https://skillicons.dev)
+## 👨‍💻 Who I Am
 
-<br/>
-<hr/>
+I'm a developer who enjoys turning ideas into code, solving problems, and understanding how things work under the hood.
 
+I believe that great developers aren't defined by what they already know, but by their willingness to keep learning, experimenting, and improving.
 
-###  👨‍💻 Most useable languages
+- 💻 Passionate about programming and software development
+- 🧠 Focused on problem-solving and writing clean, efficient code
+- 🚀 Always exploring new technologies and challenging myself
+- 📚 **Always ready to learn something new.** Every day is an opportunity to grow.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-bx31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!---
-OussamaLabchari/OussamaLabchari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ My Toolkit
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cs,py,js,ts" alt="Programming languages"/>
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" alt="Web development technologies"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mongodb,express,postgres" alt="Web development technologies"/>
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,vim,figma" alt="Developer tools"/>
+</p>
+
+*My toolkit evolves as I learn, build, and explore new technologies.*
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=u-bx31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-bx31&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</p>
+
+---
+
+## 🎯 What Next?
+
+- 🔥 Build projects that challenge my current skills.
+- 🧩 Improve my problem-solving and algorithmic thinking.
+- 🏗️ Write better, cleaner, and more maintainable code.
+- 🌍 Explore new technologies and contribute to open source.
+- 🚀 Turn what I learn into something real.
+
+---
+
+## 🌱 Always Learning
+
+> "The goal isn't to know everything. It's to never stop learning."
+
+I'm not here to stay comfortable with what I know. I'm here to explore, experiment, make mistakes, and get better with every line of code.
+
+**Curious mind. Consistent effort. Continuous growth.**
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by! 👋</b>
+  <br/>
+  <i>Let's build something meaningful.</i>
+</p>
