@@ -11,10 +11,13 @@
 </p>
 <p align="center">
   <a href="https://u-bx31.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-F5C447?style=for-the-badge" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-F5C447?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/oussama-labchari">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkdIn-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:oussama.bx31@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
